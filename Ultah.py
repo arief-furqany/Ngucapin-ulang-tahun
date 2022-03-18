@@ -25,7 +25,7 @@ for i in range (ultah):
 print (".................................")
 print (".................................")
 print ("...........CREATED BY............")
-print ("..........ARIEF FURQANY..........")
+print ("............Musixient............")
 print (".................................")
 print (".................................")
 print (".................................")
@@ -36,7 +36,7 @@ puas = (input (" GIMANA? PUAS NGGAK DI UCAPIN?? HAHAHAHA      (PUAS/NGGAK?)    "
 if puas == "puas":
     print ("thanks")
 elif puas == "nggak":
-    print ("pala bapak kau lah, capek-capek ku buat.")
+    print ("apek-capek ku buat tanpa disemangatin ayang")
 
 print (". /n . /n . /n")
 input ("klik 'enter'")
