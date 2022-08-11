@@ -21,24 +21,43 @@ else:
 #jumlah yang ingin di ucapkan.
 ultah =int (input("pengen diucapin berapa kali nih? "))
 for i in range (ultah):
-    print ("SELAMAT ULANG TAHUN NGAB!!     " +str(i))
+    print ("SELAMAT ULANG TAHUN BESTIE!!     " +str(i))
+
+
+
+wish = (input ("sekarang tulis apa harapan kamu dan aku bagian aminnya aja.. wkwkw "))
+
+
+amin =int (input ("kamu mau di aminin berapa kali do'anya?"))
+
+
+
+for a in range (amin):
+    print ("aamiin " +str (a))
+
+print ("semoga apa yang kamu inginkan terkabul dan menjadi yang terbaik di tahun ini!!")
+
+print ("__________________________________")
+
+
 print (".................................")
 print (".................................")
 print ("...........CREATED BY............")
-print ("............Musixient............")
+print ("..........ARIEF FURQANY..........")
 print (".................................")
 print (".................................")
 print (".................................")
+
+print ("__________________________________")
+
 
 print (" Setelah pertanyaan terakhir di jawab, maka program akan tertutup secara otomatis")
 
-puas = (input (" GIMANA? PUAS NGGAK DI UCAPIN?? HAHAHAHA      (PUAS/NGGAK?)    "))
-if puas == "puas":
-    print ("thanks")
-elif puas == "nggak":
-    print ("apek-capek ku buat tanpa disemangatin ayang")
+puas = (input (" GIMANA? PUAS NGGAK DI UCAPIN?? HAHAHAHA      (iya/tidak?)    "))
+if puas == "iya":
+    print ("silahkan kembali lagi di ulang tahun di tahun depan")
+elif puas == "tidak":
+    print ("syedihh :((((")
 
-print (". /n . /n . /n")
+print ("_____________________________")
 input ("klik 'enter'")
-
-
